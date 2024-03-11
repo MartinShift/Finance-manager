@@ -1,0 +1,261 @@
+Start time: 01.09.2022
+End time: 08.10.2022
+Total income: 247601
+Total spendings: 375000
+Balance at start: -7499900
+Balance at end: -7627299
+All Categories spent at at descending order:
+tech:374000
+Transfer:1000
+
+All your incomes in this period:
+Category: Stocks
+Amount: 500
+About: coca cola
+Date: 08.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 1
+About: left left right up
+Date: 06.10.2022
+
+Category: cheat code
+Amount: 10000
+About: left left right up
+Date: 06.10.2022
+
+Category: Stocks
+Amount: 10000
+About: coca cola
+Date: 06.10.2022
+
+Category: credit
+Amount: 100
+About: lol
+Date: 06.10.2022
+
+Category: credit
+Amount: 17000
+About: privatbank
+Date: 06.10.2022
+
+All your spendings in this period:
+Category: Transfer
+Amount: 1000
+About: s
+Date: 07.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
+
+Category: tech
+Amount: 17000
+About: mining rig
+Date: 06.10.2022
